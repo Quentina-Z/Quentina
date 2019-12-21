@@ -1,2 +1,2 @@
-# https://quentina-z.github.io/Quentina
+# https://quentina-z.github.io
 My wonderland
